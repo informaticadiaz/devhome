@@ -16,4 +16,4 @@ https://dg-docs.ole.dev/getting-started/03-note-settings/
 
 
 
-
+Usar ctrl + p para abrir la paleta de commandos
